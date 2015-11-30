@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+		"window.reopenFolders": "none",
+		"**/.meta": true,
+		"window.openInNewWindow": false,
+		"window.reopenFolders": "none",
+		"editor.fontSize": 16,
+	    "editor.wrappingColumn": 0,
+		"editor.quickSuggestions": false,
+		"javascript.suggest.alwaysAllWords": true,
+}
